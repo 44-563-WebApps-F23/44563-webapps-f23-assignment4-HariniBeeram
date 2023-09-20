@@ -1,0 +1,38 @@
+.speech{
+     font-family: 'Gills sans','Gill Sans MT','Calibri', 'sans-serif';
+     font-size: medium;
+     color: black;
+}
+.direction{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color:black;
+    background-color:beige;
+}
+.direction.hover {
+    background-color: antiquewhite;
+}
+.REGINA{
+    color:brown;
+}
+.REGINA:hover{
+    background-color:blue;
+    text-align: center;
+    text-shadow: 2px 2px 4px blue;
+     border:dashed;
+}  
+
+.ENGSTRAND{
+    color: blueviolet;
+}
+
+.ENGSTRAND:hover{
+    background-color: aqua;
+    text-align: center;
+    text-shadow: 2px 2px 4px blue;
+    border:dashed;
+}
+
+
+
+
